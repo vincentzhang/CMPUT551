@@ -1,2 +1,17 @@
 # Dynamic Programming
 
+## Difficulties
+Need an elegant design of the subproblem
+
+## Benefit
+Coding is simple
+
+## Terms
+Memoization: top down approach
+Dynamic Programming: bottom up approach, find the most trivial subproblem, solve it and then use the 
+
+## How does it work
+Memorize the past, i.e., if you have solved a problem for a given input before, save the result and used it in the future
+
+## When does it work
+When the problem can be divided into overlapping subproblems and there's an optimal sub-pattern of the problem
