@@ -17,3 +17,8 @@ Memorize the past, i.e., if you have solved a problem for a given input before, 
 When the problem can be divided into overlapping subproblems and there's an optimal sub-pattern of the problem
 
 ## if it's lambda bad hypotheses, it takes about 1/lambda trials to see evidence, proof?
+
+## Stability
+Unstable(small changes in training data causes major changes in the prediction): Decision-tree, NN, rule learning algorithm
+Stable: (Linear Regression, Nearest Neighbors, )
+Subsampling is best for unstable learners
