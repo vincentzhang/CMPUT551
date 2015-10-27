@@ -15,3 +15,5 @@ Memorize the past, i.e., if you have solved a problem for a given input before, 
 
 ## When does it work
 When the problem can be divided into overlapping subproblems and there's an optimal sub-pattern of the problem
+
+## if it's lambda bad hypotheses, it takes about 1/lambda trials to see evidence, proof?
